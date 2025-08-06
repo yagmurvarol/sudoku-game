@@ -6,7 +6,7 @@ class Cell:
         self.col = column
         self.size = size
         self.edit = editable
-        self.selected = Falsecd ..
+        self.selected = False
 
     def draw(self, surface, font):
         """
